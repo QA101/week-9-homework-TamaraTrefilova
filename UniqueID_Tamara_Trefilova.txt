@@ -1,0 +1,43 @@
+
+http://automationpractice.com/
+
+
+id = "contact-link" //*[@id="contact-link"]
+id = "header-logo" //*[@id="header_logo"]
+class = "logo img-responsive"  //*[@id="header_logo"]/a/img
+class = "logout" //*[@id="header"]/div[2]/div/div/nav/div[2]/a  
+class = "account" //*[@id="header"]/div[2]/div/div/nav/div[1]/a
+class = "header_user_info" //*[@id="header"]/div[2]/div/div/nav/div[1]
+                       
+id = "search_query_top"  //*[@id="searchbox"]
+link = "My store"  //*[@id="header_logo"]/a
+title = "View my shopping cart //*[@id="header"]/div[3]/div/div/div[3]/div/a/b
+link title = "Women"  //*[@id="block_top_menu"]/ul/li[1]/a
+link title = Dresses" //*[@id="block_top_menu"]/ul/li[2]/a
+link title = "T- shirts" //*[@id="block_top_menu"]/ul/li[3]/a
+button type = "button">Shop now!   //*[@id="homeslider"]/li[3]/div/p[2]/button
+button  add to cart1 data-id-product = "1" //*[@id="homefeatured"]/li[1]/div/div[2]/div[2]/a[1]/span
+button  add to cart2 data-id-product = "2"  //*[@id="homefeatured"]/li[2]/div/div[2]/div[2]/a[1]/span
+button  add to cart3 data-id-product = "3"  //*[@id="homefeatured"]/li[3]/div/div[2]/div[2]/a[1]/span
+button  add to cart4 data-id-product = "4"  //*[@id="homefeatured"]/li[4]/div/div[2]/div[2]/a[1]/span
+button  add to cart5 data-id-product = "5"  //*[@id="homefeatured"]/li[5]/div/div[2]/div[2]/a[1]/span
+button  add to cart6 data-id-product = "6"  //*[@id="homefeatured"]/li[6]/div/div[2]/div[2]/a[1]/span
+button  add to cart7 data-id-product = "7"  //*[@id="homefeatured"]/li[7]/div/div[2]/div[2]/a[1]/span
+
+id ="newsletter-input" //*[@id="newsletter-input"]
+button type ="submit" //*[@id="newsletter_block_left"]/div/form/div/button
+id="social_block" //*[@id="social_block"]
+
+http://demoqa.com/
+link = "Home" //*[@id="menu-item-38"]/a
+linl = "About us" //*[@id="menu-item-158"]/a
+link =-"Services"//*[@id="menu-item-155"]/a
+class = "dropdown-toggle" //*[@id="menu-item-66"]/a
+link = "Blog" //*[@id="menu-item-65"]/a
+linK="Contact" //*[@id="menu-item-64"]/a
+
+
+
+
+
+
